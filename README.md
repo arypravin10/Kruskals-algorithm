@@ -1,1 +1,1 @@
-# Kruskals-algorithm
+Implementation of Kruskals algorithm in c++
