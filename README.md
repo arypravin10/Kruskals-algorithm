@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-This is the implementation of Kruskal's Algorithm in c++
->>>>>>> new
+<<<<<<< This is the implementation of Kruskal's Algorithm in c++ >>>>>>>
