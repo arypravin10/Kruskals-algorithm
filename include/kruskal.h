@@ -16,7 +16,7 @@ private:
 public:
     Graph(int V) // V-> num of vertices in the graph...
     {
-        parent = new int [100];
+        parent = new int[100];
         for (int i = 0; i < V; i++)
         {
             parent[i] = i;
