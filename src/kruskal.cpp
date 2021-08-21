@@ -10,8 +10,7 @@ void Graph::add_edge(int s, int d, int w)
 int Graph::find_parent(int n)
 {
 
-    
-    if (parent[n]==n)
+    if (parent[n] == n)
     {
         return n;
     }
